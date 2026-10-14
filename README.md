@@ -126,8 +126,7 @@ Telegram 账号这个市场，信息差主要在"号的实际状态"上：同一
 
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
 
-<!-- 攻略深链索引 -->
-
+<!-- AUTO:START -->
 ## 按问题查攻略
 
 下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
@@ -162,3 +161,18 @@ Telegram 账号这个市场，信息差主要在"号的实际状态"上：同一
 ---
 
 *本文档为公开信息整理，价格与政策以官方页面为准；本站攻略库持续更新。*
+
+<!-- AUTO:EXTRA:START -->
+
+## 更多攻略（自动同步）
+
+以下是本站攻略库中与本主题相关的其他文章：
+
+- [挑 Telegram 号，先看这四点再谈价格](https://chuhao.shop/guide/how-to-choose-telegram-account.html)
+- [2026 Telegram 号登不上、收不到登录码怎么找回](https://chuhao.shop/guide/telegram-account-recovery.html)
+- [2026 Telegram 登录设备与活跃会话怎么查看和清理](https://chuhao.shop/guide/telegram-device-sessions.html)
+- [十分钟做完这三步，号才真正是你的](https://chuhao.shop/guide/tg-account-safety.html)
+
+> 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
+<!-- AUTO:EXTRA:END -->
+<!-- AUTO:END -->
