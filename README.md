@@ -125,3 +125,40 @@ Telegram 账号这个市场，信息差主要在"号的实际状态"上：同一
 ## 许可
 
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
+
+<!-- 攻略深链索引 -->
+
+## 按问题查攻略
+
+下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
+
+- [Telegram 账号怎么选：四种类型的选择逻辑](https://chuhao.shop/guide/telegram-account-guide.html)
+- [Telegram 怎么登录（纸飞机 / 电报 / TG）](https://chuhao.shop/guide/telegram-login.html)
+- [纸飞机新手教程](https://chuhao.shop/guide/telegram-beginner.html)
+- [纸飞机必看手册](https://chuhao.shop/guide/tg-account-manual.html)
+- [Telegram Premium 多少钱：价格与权益全解析](https://chuhao.shop/guide/telegram-premium.html)
+- [邀请链接打不开、加群失败：报错逐条对照](https://chuhao.shop/guide/telegram-invite-link-failed.html)
+- [账号被冻结 / 限制了怎么办](https://chuhao.shop/guide/tg-account-frozen.html)
+- [Telegram 收不到验证码怎么办](https://chuhao.shop/guide/tg-no-code.html)
+- [买到的账号怎么用：卡密格式说明与登录教程](https://chuhao.shop/guide/how-to-use-card.html)
+- [买的账号质保怎么算：范围、时间与换号规则](https://chuhao.shop/guide/account-warranty.html)
+
+## 姊妹站
+
+- [yuantou.one](https://yuantou.one/) — 源头网 — 源头货源与攻略库
+
+## 官方价参考（2026-10-14 核对）
+
+| 服务 | 档位 | 官方价 |
+|---|---|---|
+| Telegram Premium | 月付 / 年付（美区） | $4.99/月 · $35.99/年 |
+| Telegram Premium | 礼物 3 / 6 / 12 个月 | ≈ $13.19 / $17.59 / $31.89 |
+| X（推特） | Basic / Premium / Premium+（网页端） | $3 / $8 / $40 每月 |
+| X（推特） | 各区价格不同 | 例：土耳其区 Premium ≈ $4.05/月 |
+
+> 官方标价；X 与 Telegram 各区分区定价，实际以你账号结算页显示为准。
+
+
+---
+
+*本文档为公开信息整理，价格与政策以官方页面为准；本站攻略库持续更新。*
