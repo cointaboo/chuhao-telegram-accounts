@@ -171,7 +171,10 @@ Telegram 账号这个市场，信息差主要在"号的实际状态"上：同一
 - [挑 Telegram 号，先看这四点再谈价格](https://chuhao.shop/guide/how-to-choose-telegram-account.html)
 - [2026 Telegram 号登不上、收不到登录码怎么找回](https://chuhao.shop/guide/telegram-account-recovery.html)
 - [2026 Telegram 登录设备与活跃会话怎么查看和清理](https://chuhao.shop/guide/telegram-device-sessions.html)
+- [Telegram 号怎么选：号龄 / 区号 / 带邮箱 三维度对照（78 款真实价格）](https://chuhao.shop/guide/tg-account-how-to-choose.html)
 - [十分钟做完这三步，号才真正是你的](https://chuhao.shop/guide/tg-account-safety.html)
+- [Telegram 买号哪个平台靠谱？5 个能当场验的硬指标](https://chuhao.shop/guide/tg-buy-platform-compare.html)
+- [TG 频道成员增长怎么选？按「不掉天数」分档（28 款真实价格）](https://chuhao.shop/guide/tg-channel-member-growth.html)
 
 > 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
 <!-- AUTO:EXTRA:END -->
